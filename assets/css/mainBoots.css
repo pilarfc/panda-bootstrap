@@ -1,14 +1,18 @@
 
 header {
-    background-color: black;
+    background-color: white;
 }
 nav {
    margin-top: 2%;
 }
 
 nav ul li a {
-    color: white; 
+    color: black; 
 }
 
+h2 {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 3em;
+}
 
 
